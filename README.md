@@ -1,7 +1,7 @@
-#Sistema de Catalogo de Animes
+# Sistema de Catalogo de Animes
 
 
-##Como Ejecutar el programa:
+## Como Ejecutar el programa:
 
 
 Opcion uno:
